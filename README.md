@@ -24,7 +24,7 @@ Utility functions for Keras.
 * **everything2vec:** A library to integrate word2vec and data processing functions.  
 
 ### Models
-* **feature-SVM:** Apply SVM to nth layer activations. Mainly used in Covnets, transfer learning.  
+* **feature-SVM:** Apply SVM to nth layer activations.
 
 ### Hyper_params Optimization
 * **skopt:** Apply GridSearch, RandomSearch using sklearn. (Not working for RNN)
